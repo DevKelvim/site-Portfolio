@@ -8,7 +8,9 @@ Estou aprendendo o **git** e **github** do _zero ao profissional._
 * GIT avançado.
 * Usando github de forma profissional.
 
-1. GIT
+1. GIT  
+        1. O que é git.  
+        2. Instalando git na maquina.
 2. Github
 3. Markdown
 4. Portfólio
