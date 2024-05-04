@@ -3,7 +3,10 @@
 Estou aprendendo o **git** e **github** do _zero ao profissional._
 
 ## Módulos:
-_Entendendo o que é **git**, aprendendo sobre **repositórios**, trabalhando com **branches**._
+* Começando com git.
+* Aprendendo sobre git.
+* GIT avançado.
+* Usando github de forma profissional.
 
 ### Rede Social
 [Instagram](https://www.instagram.com/kelvimtairan/)
