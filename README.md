@@ -1,4 +1,4 @@
-![Logon do git](https://metodoprogramar.com.br/wp-content/webp-express/webp-images/uploads/2020/06/Git-e-GitHub.png.webp)
+![Logon do git](https://miro.medium.com/v2/resize:fit:640/format:webp/1*co_1qORNdM0PI1nvCp7Iig.png)
 # Bem vindo ao meu Git e Github.
 Estou aprendendo o **git** e **github** do _zero ao profissional._
 
