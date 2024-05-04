@@ -23,3 +23,24 @@ Estou aprendendo o **git** e **github** do _zero ao profissional._
 >Este é um blockquote, usado para destacar alguma area.
 >
 >Segunda area destacada.
+
+**Comando para rodar o projeto**
+
+```
+npm start
+```
+
+**Ex: de uso do Script**
+````js
+function showName(name){
+    return 'Bem vindo' + name;
+}
+
+````
+** Uso do componente HTML**
+````HTML
+<h1>
+    Titulo do projeto
+    <span>Curso Git<span>
+</h1>
+````
