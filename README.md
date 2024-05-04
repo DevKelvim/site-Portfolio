@@ -8,6 +8,11 @@ Estou aprendendo o **git** e **github** do _zero ao profissional._
 * GIT avançado.
 * Usando github de forma profissional.
 
+1. GIT
+2. Github
+3. Markdown
+4. Portfólio
+
 ### Rede Social
 [Instagram](https://www.instagram.com/kelvimtairan/)
 
