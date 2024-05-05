@@ -28,7 +28,7 @@ Estou aprendendo o **git** e **github** do _zero ao profissional._
 >
 >Segunda area destacada.
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto
 
 ```
 npm start
