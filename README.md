@@ -2,6 +2,10 @@
 # Bem vindo ao meu Git e Github.
 Estou aprendendo o **git** e **github** do _zero ao profissional._
 
+- [x] Site responsivo.
+- [ ] Login com facebook.
+- [ ] Pagina sobre a empresa.
+
 ## Módulos:
 * Começando com git.
 * Aprendendo sobre git.
@@ -44,3 +48,4 @@ function showName(name){
     <span>Curso Git<span>
 </h1>
 ````
+
