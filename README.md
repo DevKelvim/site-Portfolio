@@ -2,7 +2,7 @@
 
 [Bem vindo](#bem-vindo-ao-meu-git-e-github) |
 [Modulos](#módulos) |
-[Rede Social](#rede-social)
+[Rede Social](#rede-social) |
 [Comandos](#comando-para-rodar-o-projeto)
 
 # Bem vindo ao meu Git e Github.
