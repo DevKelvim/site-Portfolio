@@ -50,7 +50,7 @@ function showName(name){
 ````
 Propriedades | Descrição
 ------------ | --------
-name | Melissa grazielly e Kauan Junior
+name | Para informa o nome de usuario
 size | Para definir o tamanho do campo
 background | Cor de fundo da area HEX
 onPress | Função chamada quando clicar no botão
