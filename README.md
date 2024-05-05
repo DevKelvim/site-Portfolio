@@ -54,4 +54,4 @@ name | Para informa o nome de usuario
 size | Para definir o tamanho do campo
 background | Cor de fundo da area HEX
 onPress | Função chamada quando clicar no botão
-da pra por imagem | ![Logon do git](https://miro.medium.com/v2/resize:fit:640/format:webp/1*co_1qORNdM0PI1nvCp7Iig.png)
+da pra por imagem | ![Logon do git](https://enotas.com.br/blog/wp-content/uploads/2021/02/github.gif)
