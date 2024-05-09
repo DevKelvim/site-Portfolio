@@ -1,19 +1,19 @@
 
-<img src="https://scontent.fbnu7-1.fna.fbcdn.net/v/t1.18169-9/11070743_1557668851188910_3875678562124930363_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH6P7mRj9imO_ASnmpK_ZcPIKZkNZNZcdIgpmQ1k1lx0nWGJQW0YU2XJpv9gAvgiKpnvdSaTT3-t0oCj-8OnpH9&_nc_ohc=74IGv5jmQnUQ7kNvgH79XkP&_nc_ht=scontent.fbnu7-1.fna&oh=00_AfAqzQ2jYiRRlXm7XiV9EKfv0_yu3qNJJH4b8WbxRc0bLA&oe=66645B80" width="200px"/> **Kelvim Tairan** _Aprendiz DevFull Stack_.
+<img src="./assets/Design sem nome (1).png" width="200px"/> **Kelvim Tairan** _Aprendiz Dev Full Stack_.
 
 # Bem vindo ao meu Git e Github.
 Estou aprendendo o **git** e **github** do _zero ao profissional._
 
 
 [Bem vindo](#bem-vindo-ao-meu-git-e-github) |
-[Modulos](#módulos) |
+[Modulos](#Certificados) |
 [Rede Social](#rede-social) |
 [Comandos](#comando-para-rodar-o-projeto)
 
 
-- [x] Site responsivo.
-- [ ] Login com facebook.
-- [ ] Pagina sobre a empresa.
+- [x] Trabalho em equipe.
+- [x] Ágil e eficiente.
+- [x] Fácil aprendizado.
 
 ## Módulos:
 * Começando com git.
