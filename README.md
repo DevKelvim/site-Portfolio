@@ -29,8 +29,8 @@ Estou aprendendo o **git** e **github** do _zero ao profissional._
         2. HTML e CSS
 
 ### Rede Social
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelvimtairan/)   
-[Facebook](https://www.facebook.com/profile.php?id=100008374305084)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelvimtairan/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008374305084)
 
 >Visite minhas redes sociais.
 >
