@@ -7,15 +7,17 @@
 [Comandos](#comando-para-rodar-o-projeto)
 
 
+
 # Bem vindo ao meu Git e Github.
 Estou aprendendo o **git** e **github** do _zero ao profissional._
-
-
-
 
 - [x] Trabalho em equipe.
 - [x] Ágil e eficiente.
 - [x] Fácil aprendizado.
+
+## Ferramentas
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
 ## Módulos: Certificados e Experiencias
 * [Git e Github](https://www.dio.me/certificate/YR2SYQEH)
