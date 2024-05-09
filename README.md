@@ -15,8 +15,8 @@ Estou aprendendo o **git** e **github** do _zero ao profissional._
 - [x] Ágil e eficiente.
 - [x] Fácil aprendizado.
 
-## Módulos:
-* Começando com git.
+## Módulos:Certificados e Experiencias
+* [Git e Github](https://www.dio.me/certificate/YR2SYQEH)
 * Aprendendo sobre git.
 * GIT avançado.
 * Usando github de forma profissional.
@@ -33,9 +33,9 @@ Estou aprendendo o **git** e **github** do _zero ao profissional._
 
 [Facebook](https://www.facebook.com/profile.php?id=100008374305084)
 
->Este é um blockquote, usado para destacar alguma area.
+>Visite minhas redes sociais.
 >
->Segunda area destacada.
+>Me siga para ver meu desenvolvimento profissional na area de programação.
 
 ### Comando para rodar o projeto
 
