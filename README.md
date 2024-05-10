@@ -62,7 +62,7 @@ name | Para informa o nome de usuario
 size | Para definir o tamanho do campo
 background | Cor de fundo da area HEX
 onPress | Função chamada quando clicar no botão
-Imagem demonstração | <img src="https://enotas.com.br/blog/wp-content/uploads/2021/02/github.gif" width="100 px"/>
+Imagem demonstração | <img src="https://enotas.com.br/blog/wp-content/uploads/2021/02/github.gif" width="80 px"/>
 
 
 
