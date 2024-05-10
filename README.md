@@ -1,5 +1,5 @@
 
-<img src="./assets/Design sem nome (1).png" width="200px"/> **Kelvim Tairan** _Aprendiz Dev Full Stack_.
+<img src="./assets/Design sem nome (1).png" width="200px"/> [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevKelvim)
 
 [Bem vindo](#bem-vindo-ao-meu-git-e-github) |
 [Modulos](#Certificados) |
