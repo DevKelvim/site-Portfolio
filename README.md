@@ -11,7 +11,6 @@
 # Bem vindo ao meu Git e Github.
 Estou aprendendo o **git** e **github** do _zero ao profissional._
 
-Participação Bruno Ronaybe
 
 - [x] Trabalho em equipe.
 - [x] Ágil e eficiente.
