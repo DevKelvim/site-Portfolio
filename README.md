@@ -10,7 +10,7 @@
 
 # Bem vindo ao meu Git e Github.
 Estou aprendendo o **git** e **github** do _zero ao profissional._
-
+Pastor
 - [x] Trabalho em equipe.
 - [x] Ágil e eficiente.
 - [x] Fácil aprendizado.
