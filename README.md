@@ -23,7 +23,7 @@ Participação Bruno Ronaybe
 
 ## Módulos: Certificados e Experiencias
 * [Git e Github](https://www.dio.me/certificate/YR2SYQEH)
-* [Criando portfólio vendedor](https://www.dio.me/certificate/Q8PJEDUH)
+* [Criando portfólio vencedor](https://www.dio.me/certificate/Q8PJEDUH)
 * [Introdução a Java](https://www.dio.me/certificate/XIZSG4A2)
 
 1. Em andamento:  
