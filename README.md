@@ -30,6 +30,7 @@ Estou aprendendo o **git** e **github** do _zero ao profissional._
 1. Em andamento:  
         1. Analise e desenvolvimento de sistemas.   
         2. HTML e CSS
+        3. JavaScript
 
 ### Rede Social
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelvimtairan/)
